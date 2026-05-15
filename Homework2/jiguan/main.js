@@ -2,7 +2,7 @@
 //Referenced d3js.org for several built in d3.js functions
 // Graph 1: Used claude.ai to learn how to create each individual column for parallel coordinates graph and the process of mapping lines over each column & how to create responsive design that allow for dynamic resizing based on window size
 // Graph 2: Used claude.ai to understand subscales for grouped bar charts and how it maps onto the svg
-// Graph 3:
+// Graph 3: Used claude.ai to help with x and y scales and the coloring of each square
 //------------------------------------------------------------------------
 //Margins
 var margin = { top: 50, right: 120, bottom: 50, left: 70 };
